@@ -15,6 +15,9 @@
             <ColumnDefinition Width="1*"/>
             <ColumnDefinition Width="1*"/>
         </Grid.ColumnDefinitions>
-        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="208,93,0,0" VerticalAlignment="Top" Grid.Column="0" Grid.Row="0"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="275,10,0,0" VerticalAlignment="Top" Grid.Column="0" Grid.Row="0"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="275,30,0,0" VerticalAlignment="Top" Grid.Column="0" Grid.Row="0"/>
+        <Label Content="AOC" Grid.Column="0" Grid.Row="0" Margin="0,30,0,0"/>
+        <Label Content="Trump" Grid.Column="0" Grid.Row="0" Margin="0,0,0,0"/>
     </Grid>
 </Window>
